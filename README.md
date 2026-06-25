@@ -27,3 +27,15 @@ img_flip.save(output_image)
   ```python
   python3 filp.py <input_image_path> <output_image_path>
   ```
+- 利用例
+  ```python
+  python3 flip.py input.jpg output.jpg
+  ```
+**3.2.出力結果**
+- 以下のように入力画像の左右反転画像が出力されます。
+
+  | 入力画像(imput.jpg) | 出力画像(output.jpg) |
+  | --- | --- |
+  | <img width="640" height="468" alt="input" src="https://github.com/user-attachments/assets/c27ad9a2-5457-4e29-945e-de981eb45b69" /> | <img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/ee1eb7f1-4378-4a32-898b-07c9e32eb495" /> |
+
+以上
